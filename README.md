@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **ruby, python, java**
+- 💬 Ask me about **Ruby, Python, Java**
 
 - 📫 How to reach me **randika.banura@gmail.com**
 
