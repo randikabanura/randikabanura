@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randikabanura&label=Profile%20views&color=0e75b6&style=flat-square" alt="randikabanura" /> </p>
 
-- 🔭 I’m currently working on [Sri Lanaka NIC generator and validator](https://github.com/randikabanura/sri_lanka_nic_generator_validator)
+- 🔭 I’m currently working on [TopSinhalaMP3 Downloader](https://github.com/randikabanura/top_sinhala_mp3_downloader)
 
 - 🌱 I’m currently learning **Golang**
 
