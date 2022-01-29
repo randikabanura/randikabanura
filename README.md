@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TopSinhalaMP3 Downloader](https://github.com/randikabanura/top_sinhala_mp3_downloader)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang, PHP Laravel**
 
 - 💬 Ask me about **Ruby, Python, Java**
 
