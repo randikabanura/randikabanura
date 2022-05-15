@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randikabanura&label=Profile%20views&color=0e75b6&style=flat-square" alt="randikabanura" /> </p>
 
-- 🔭 I’m currently working on [TopSinhalaMP3 Downloader](https://github.com/randikabanura/top_sinhala_mp3_downloader)
+- 🔭 I’m currently working on <a href="https://github.com/randikabanura/top_sinhala_mp3_downloader" target="_blank">TopSinhalaMP3 Downloader</a>
 
 - 🌱 I’m currently learning **Golang, PHP Laravel**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **randika.banura@gmail.com**
 
-- 📜 Get my CV from [Reactive Resume](https://rxresu.me/r/bwNSSuaa)
+- 📜 Get my CV from <a href="https://rxresu.me/r/bwNSSuaa" target="_blank">Reactive Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
