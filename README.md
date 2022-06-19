@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randikabanura&label=Profile%20views&color=0e75b6&style=flat-square" alt="randikabanura" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/randikabanura/top_sinhala_mp3_downloader" target="_blank">TopSinhalaMP3 Downloader</a>
+- 🔭 I’m currently working on <a href="https://github.com/randikabanura/bindup" target="_blank">Bindup (Customizable API Wrapper)</a>
 
 - 🌱 I’m currently learning **Golang, PHP Laravel**
 
