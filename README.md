@@ -10,8 +10,10 @@
 - 💬 Ask me about **Ruby, Python, Java**
 
 - 📫 How to reach me **randika.banura@gmail.com**
+  
+- 🌏 Check out my <a href="https://flowcv.me/banura" target="_blank">Personal Website</a>
 
-- 📜 Get my CV from <a href="https://rxresu.me/r/bwNSSuaa" target="_blank">Reactive Resume</a>
+- 📜 Get my CV from <a href="https://flowcv.com/resume/d1ktqtql93" target="_blank">Online Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
