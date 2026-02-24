@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/randikabanura/asdf-opensearch" target="_blank">ASDF Opensearch Plugin</a>
 
-- 🌱 I’m currently learning **Golang, PHP Laravel**
-
-- 💬 Ask me about **Ruby, Python, Java**
+- 💬 Ask me about **Ruby, Python, GoLang**
 
 - 📫 How to reach me **randika.banura@gmail.com**
   
