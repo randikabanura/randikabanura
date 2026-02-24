@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Banura Randika</h1>
-<h3 align="center">Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Ruby, Python, Java, Javascript, Go, and Linux. Strong engineering professional with a Bsc (Hons) Information Technology focused in Software Engineering from SLIIT. Focused on learning new technologies and gaining higher education while keeping up with the software industry. Also quite passionate about open source development as well.</h3>
+<h3 align="center">Software Engineer with 6+ years of experience building and maintaining robust software solutions in the computer software industry. Skilled in Ruby, JavaScript, Python, and Go, with a solid background in system design and engineering best practices. Graduated with a BSc (Hons) in Information Technology, specializing in Software Engineering. Passionate about mastering emerging technologies and adapting to the ever-evolving demands of the industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randikabanura&label=Profile%20views&color=0e75b6&style=flat-square" alt="randikabanura" /> </p>
 
