@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Ruby, Python, GoLang**
 
-- 📫 How to reach me **randika.banura@gmail.com**
+- 📫 How to reach me **hi@banura.net**
   
-- 🌏 Check out my <a href="https://flowcv.me/banura" target="_blank">Personal Website</a>
+- 🌏 Check out my <a href="https://banura.net" target="_blank">Personal Website</a>
 
 - 📜 Get my CV from <a href="https://flowcv.com/resume/d1ktqtql93" target="_blank">Online Resume</a>
 
